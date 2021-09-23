@@ -1,1 +1,1 @@
-Este es el contenido de hola.txt
+Este es el contenido de hola, pero ahora lo he cambiado directamente en GitHub.txt
